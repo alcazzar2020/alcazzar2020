@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @alcazzar2020
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+This is my private repo where I keep some code I played around with.
+
+
+- 📫 How to reach me : alcazzar@icloud.com
 
 <!---
 alcazzar2020/alcazzar2020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
